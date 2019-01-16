@@ -1,0 +1,10 @@
+{
+ "name":"black beans",
+ "type":"food",
+ "format":"bean",
+ "unit" : "gram",
+ "nutritional_facts": {"carbs":   56.0,
+			"fats":   3.0,
+			"protein":28.0
+			}
+}

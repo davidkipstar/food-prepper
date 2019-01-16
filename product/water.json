@@ -1,0 +1,10 @@
+{
+ "name":"water",
+ "type":"liquid",
+ "format":"liquid",
+ "unit" : "liter",
+ "nutritional_facts": {"carbs":   0.0,
+			"fats":   0.0,
+			"protein":0.0
+			}
+}

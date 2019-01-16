@@ -1,0 +1,10 @@
+{
+ "name":"ground pork",
+ "type":"pork",
+ "format":"ground",
+ "unit" : "gram",
+ "nutritional_facts": {"carbs":0.0 ,
+			"fats":20.0,
+			"protein":20.0
+			}
+}

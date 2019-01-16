@@ -1,0 +1,10 @@
+{
+ "name":"rice",
+ "type":"food",
+ "format":"grain",
+ "unit" : "gram",
+ "nutritional_facts": {"carbs":   78.0,
+			"fats":   3.0,
+			"protein":8.0
+			}
+}
